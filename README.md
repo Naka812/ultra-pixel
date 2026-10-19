@@ -26,21 +26,6 @@ O **Ultra Pixel** é um editor de pixel art gratuito, feito para facilitar a vid
 
 Seus desenhos ficam guardados **somente no seu navegador**. Nada é enviado para um servidor. Isso significa que, se você limpar os dados do navegador, os projetos podem ser apagados, então exporte o que for importante.
 
-### Rodar no seu computador
-
-Você precisa do [Node.js](https://nodejs.org) (versão LTS).
-
-```bash
-npm install
-npm run dev
-```
-
-Depois, abra `http://localhost:3000/ultra-pixel/` no navegador.
-
-### Feedback e bugs
-
-Encontrou um problema ou tem uma ideia? Abra uma [issue](../../issues) aqui no repositório.
-
 ### Licença
 
 Gratuito para usar, inclusive em projetos comerciais. Veja o arquivo [LICENSE](LICENSE).
@@ -70,21 +55,6 @@ Feito por **Anderson Nakanome** (Naka Gamedev), da **Gold Skull Studio**, criado
 ### Privacy
 
 Your artwork is stored **only in your browser**. Nothing is sent to a server. This means that if you clear your browser data, your projects may be deleted, so export anything important.
-
-### Run it on your computer
-
-You need [Node.js](https://nodejs.org) (LTS version).
-
-```bash
-npm install
-npm run dev
-```
-
-Then open `http://localhost:3000/ultra-pixel/` in your browser.
-
-### Feedback and bugs
-
-Found a problem or have an idea? Open an [issue](../../issues) in this repository.
 
 ### License
 
